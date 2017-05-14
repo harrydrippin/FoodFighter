@@ -1,0 +1,45 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    background-color: #F5F3EE;
+}
+
+.header {
+    background-image: url(../img/bg.jpg);
+    background-position: center;
+    background-color: #565656;
+    background-blend-mode: multiply;
+    height: 145px;
+    background-size: cover;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.4);
+}
+
+#img-logo {
+    width: 80px;
+    height: 80px;
+}
+
+.header-exp {
+    line-height: 145px;
+    color: white;
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+.tag {
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+    color: white;
+    font-size: 20px;
+    background-color: #7D1935;
+    border: 1px solid white;
+    border-radius: 20px;
+    line-height: 60px;
+    text-align: center;
+    width: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+    height: 60px;
+}

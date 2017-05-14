@@ -1,0 +1,12 @@
+{"_id":{"$oid":"59176401bb7ab14dc5740f9f"},"index":0.0,"name":"한식","color":""}
+{"_id":{"$oid":"5917640cbb7ab14dc5740fa0"},"index":1.0,"name":"중식","color":""}
+{"_id":{"$oid":"59176413bb7ab14dc5740fa1"},"index":2.0,"name":"일식","color":""}
+{"_id":{"$oid":"59176419bb7ab14dc5740fa2"},"index":3.0,"name":"양식","color":""}
+{"_id":{"$oid":"59176422bb7ab14dc5740fa3"},"index":4.0,"name":"매콤한","color":""}
+{"_id":{"$oid":"5917642bbb7ab14dc5740fa4"},"index":5.0,"name":"달콤한","color":""}
+{"_id":{"$oid":"59176434bb7ab14dc5740fa5"},"index":6.0,"name":"새콤한","color":""}
+{"_id":{"$oid":"5917643dbb7ab14dc5740fa6"},"index":7.0,"name":"느끼한","color":""}
+{"_id":{"$oid":"59176445bb7ab14dc5740fa7"},"index":8.0,"name":"담백한","color":""}
+{"_id":{"$oid":"5917644ebb7ab14dc5740fa8"},"index":9.0,"name":"고기있는","color":""}
+{"_id":{"$oid":"5917648dbb7ab14dc5740fa9"},"index":10.0,"name":"국물","color":""}
+{"_id":{"$oid":"59176494bb7ab14dc5740faa"},"index":11.0,"name":"상태","color":""}
